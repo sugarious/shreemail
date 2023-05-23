@@ -13,14 +13,20 @@ Shreemail is an Email Campaign Management System built using Node.js, Next.js, T
 
 To set up Shreemail on your local machine, follow these steps:
 
-1. Clone the repository:
-```git clone https://github.com/sugarious/shreemail.git```
+1. Clone the repository:<br>
+```
+git clone https://github.com/sugarious/shreemail.git
+```
 
-2. Navigate to the project directory:
-```cd shreemail```
+2. Navigate to the project directory:<br>
+```
+cd shreemail
+```
 
-3. Build and start the application using `docker compose`
-```docker compose up --build```
+3. Build and start the application using `docker compose`:<br>
+```
+docker compose up --build
+```
 
 This command will build the Docker images and start the application and the associated services.
 

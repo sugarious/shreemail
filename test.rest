@@ -1,0 +1,2 @@
+### Check whether the server is active or not
+GET http://localhost:3000/ping

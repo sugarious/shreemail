@@ -32,7 +32,6 @@ This command will build the Docker images and start the application and the asso
 
 4. Access Shreemail in your web browser at `http://localhost:3000`
 
-
 ### Contributions
 
 We welcome contributions to Shreemail! If you would like to contribute, please follow these guidelines:
